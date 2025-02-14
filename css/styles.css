@@ -2,5 +2,8 @@ body {color:#434455;
 background-color:#FFFFFF;
 size:16;
 font-weight:regular;
-font-family:Roboto;}
-.contacts {font-family:normal;}
+font-family:"Roboto";}
+.contacts {font-style:normal;}
+.navigation {font-family:"Raleway", sans-serif;
+font-weight:700;
+font-size:18px}
