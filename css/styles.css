@@ -61,7 +61,8 @@ color:#2e2f42;}
 .portfolio {font-size: 36px ;
     line-height: 1.11; text-align: center;
      letter-spacing: 0.02em ;
-     text-transform: capitalize;}
+     text-transform: capitalize;
+    color: #2e2f42;}
 
 
 .logo {color:#2e2f42;}
@@ -127,7 +128,7 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color:#4d5ae5;}
-.logo .span {color: #f4f4fd;}
+.span {color: #f4f4fd;}
 .increase {color:#F4F4FD;}
 .goal {font-size: 16px;
 line-height: 1.5;
