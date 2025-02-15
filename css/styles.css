@@ -80,7 +80,7 @@ color: #2e2f42;
 }
 .nav-item:focus {color:#404bbf;}
 
-.contacts-info .contacts-link {line-height: 1.5;
+.contacts-info {line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;}
 .contacts-info .contacts-link:hover {color:#404BBF;}
