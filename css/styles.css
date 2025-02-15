@@ -14,7 +14,7 @@ font-size:18px;
 line-height:1.17;
 letter-spacing:0.03em;
 text-transform:uppercase;
-color: #4d5ae5;
+color:#4d5ae5;
 }
 .logo-style {color:#2e2f42;}
 
@@ -69,7 +69,7 @@ color:#2e2f42;}
 
 .logo {color:#2e2f42;}
 
-.span {color:#2e2f42;}
+.navigation .span {color:#2e2f42;}
 .nav-item {font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
@@ -100,9 +100,16 @@ color:#2e2f42;
 }
 p {line-height: 1.5;
 letter-spacing: 0.02em;}
+
+
 .h3 {font-size: 36px;
 line-height: 1.11;
 text-align: center;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 }
+.our-portfolio {font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;}
