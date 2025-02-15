@@ -79,3 +79,8 @@ color: #2e2f42;
 .nav-item:hover {color:#404bbf;
 }
 .nav-item:focus {color:#404bbf;}
+
+.contacts-info {line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;}
+.contacts-info:hover {color:#404BBF;}
