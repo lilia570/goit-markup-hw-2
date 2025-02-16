@@ -108,7 +108,6 @@ color:#2e2f42;
 p {line-height: 1.5;
 font-size: 16px;
 letter-spacing: 0.02em;
-background-color: #FFFFFF;
 }
 
 
@@ -118,12 +117,17 @@ text-align: center;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 }
+
+
 .our-portfolio {font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2e2f42;}
+
 .footer {background-color:#2e2f42 ;}
+
+
 .logo {font-family: "Raleway", sans-serif;
 font-weight: 700;
 font-size: 18px;
@@ -131,8 +135,14 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color:#4d5ae5;}
+
+
 .span {color: #f4f4fd;}
+
+
 .increase {color:#F4F4FD;}
+
+
 .goal {font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
@@ -145,3 +155,5 @@ line-height: 1.2;
 letter-spacing: 0.02em;
 color:#2e2f42;
 background-color: #FFFFFF;}
+.ulteam {color: #FFFFFF;}
+.feautures {font-size: 16px;}
